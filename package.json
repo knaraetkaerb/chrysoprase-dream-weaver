@@ -1,0 +1,37 @@
+{
+  "name": "chrysoprase-dream-weaver",
+  "version": "1.0.0",
+  "description": "Provides tools for fashion design and retail management, supporting innovation and operations in the fashion industry.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/chrysoprase-dream-weaver"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "iolite-water-conjuror": "1.0.0",
+    "alexandrite-light-changer": "1.0.0",
+    "react": "1.0.0",
+    "validator": "1.0.0",
+    "sequelize": "1.0.0",
+    "cors": "1.0.0",
+    "mocha": "1.0.0",
+    "lodash": "1.0.0",
+    "dotenv": "1.0.0",
+    "sinon": "1.0.0",
+    "axios": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "moment": "1.0.0",
+    "bluebird": "1.0.0",
+    "socket.io": "1.0.0",
+    "solc": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "ethers": "1.0.0"
+  }
+}
